@@ -1,3 +1,6 @@
+// Header comment by Trevor Romano
+// this file implements the printer class behavior
+
 #include "printer.h"
 #include <iostream>
 using namespace std;

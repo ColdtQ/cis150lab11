@@ -1,3 +1,6 @@
+// Header comment by Trevor Romano
+// this header defines the ingredient class interface
+
 #ifndef INGREDIENT_H
 #define INGREDIENT_H
 

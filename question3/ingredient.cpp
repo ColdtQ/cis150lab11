@@ -1,3 +1,6 @@
+// Header comment by Trevor Romano
+// this file implements ingredient data behavior
+
 #include "ingredient.h"
 #include <iostream>
 #include <iomanip>

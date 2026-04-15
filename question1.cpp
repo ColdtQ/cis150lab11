@@ -1,3 +1,6 @@
+// Header comment by Trevor Romano
+// this file walks through a simple pointer update example
+
 #include <iostream>
 using namespace std;
 
