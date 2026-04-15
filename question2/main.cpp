@@ -1,10 +1,13 @@
+// Header comment by Trevor Romano
+// this file runs the printer demo and shows basic exception handling
+
 #include <iostream>
 #include "printer.h"
 using namespace std;
 
 int main() {
-    // For the first screenshot run, change 40 to 30.
-    // For the final screenshot run, keep it at 40.
+    // for the first screenshot run change 40 to 30
+    // for the final screenshot run keep it at 40
     Printer receiptPrinter(40);
 
     try {

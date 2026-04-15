@@ -1,3 +1,6 @@
+// Header comment by Trevor Romano
+// this file drives the inventory menu for the smoothie shop
+
 #include <iostream>
 #include <fstream>
 #include <iomanip>

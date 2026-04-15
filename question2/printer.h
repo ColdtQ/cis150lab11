@@ -1,3 +1,6 @@
+// Header comment by Trevor Romano
+// this header defines the printer class interface
+
 #ifndef PRINTER_H
 #define PRINTER_H
 
