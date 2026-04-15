@@ -1,4 +1,4 @@
-// Header comment by Trevor Romano
+// CIS 150 | Date: 2026-04-15 | Trevor Romano
 // this file runs the printer demo and shows basic exception handling
 
 #include <iostream>

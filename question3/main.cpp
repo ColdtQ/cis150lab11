@@ -1,4 +1,4 @@
-// Header comment by Trevor Romano
+// CIS 150 | Date: 2026-04-15 | Trevor Romano
 // this file drives the inventory menu for the smoothie shop
 
 #include <iostream>
